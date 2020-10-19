@@ -27,3 +27,16 @@ img{
     border:3px solid brown;
 }
 
+img.description{
+    width: 40%;
+    padding:5px;
+}
+p.description{
+    padding:10px;
+}
+.description{
+    display:inline-flex;
+    margin-right:5%;
+    margin-left: 5%;
+    justify-content: space-between;
+}
