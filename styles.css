@@ -1,0 +1,29 @@
+
+nav{
+    margin-bottom: 5%;
+}
+
+nav li{
+    display:inline;
+    text-decoration: none;
+    border:1px solid brown;
+    background-color:bisque;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+a{
+    text-decoration: none;
+    color:brown;
+}
+
+div.cats{
+    display:inline-flex;
+    flex-wrap:wrap;
+}
+
+img{
+    width:30%;
+    border:3px solid brown;
+}
+
